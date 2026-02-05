@@ -1,0 +1,7 @@
+{
+  "name": "EDU Aptek",
+  "description": "A pharmacy e-commerce platform with dedicated admin and user portals, featuring real-time product management and Azerbaijani language support.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
